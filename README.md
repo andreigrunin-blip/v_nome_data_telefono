@@ -1,3 +1,4 @@
+<div style="background-color: lightyellow; padding: 10px;">
 # visualizzazione nome data telefono
 Visualizzazione di nome, data di nascita, numero di telefono  
 Obiettivo di questa esercitazione e:  
@@ -11,3 +12,4 @@ int main()
 	  printf("Numero di telefono: +39 351 947 9333");  
 	  return 0;  
 }**
+</div>

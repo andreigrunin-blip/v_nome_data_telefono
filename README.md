@@ -1,8 +1,8 @@
 # v_nome_data_telefono
-Visualizzazione di nome, data di nascita, numero di telefono
-Obiettivo di questa esercitazione e:
-- Visualizzare nome, data di nascita, numero di telefono
-Codice in C
+Visualizzazione di nome, data di nascita, numero di telefono  
+Obiettivo di questa esercitazione e:  
+- Visualizzare nome, data di nascita, numero di telefono  
+Codice in C  
 **#include <stdio.h>  
 int main()  
 {  

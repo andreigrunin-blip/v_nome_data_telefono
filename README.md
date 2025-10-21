@@ -1,4 +1,4 @@
-# visualizzazione nome data telefono
+# Visualizzazione nome data telefono
 Visualizzazione di nome, data di nascita, numero di telefono  
 Obiettivo di questa esercitazione e:  
 - Visualizzare nome, data di nascita, numero di telefono  
